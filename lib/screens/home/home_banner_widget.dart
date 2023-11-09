@@ -36,7 +36,7 @@ class HomeBanner extends StatelessWidget {
                 text: "Get Up To 40%  OFF",
                 fontSize: 16,
                 fontWeight: FontWeight.w600,
-                color: AppColors.primaryColor,
+                color: Color.fromARGB(255, 0, 0, 0),
               ),
             ],
           ),
